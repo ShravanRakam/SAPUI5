@@ -1,0 +1,9 @@
+Description=Northwind OData services
+TrustAll=true
+Authentication=NoAuthentication
+Name=Northwind
+ProxyType=Internet
+URL=https://services.odata.org/
+WebIDEUsage=odata_abap,ui5_execute_abap,dev_abap,odata_gen
+WebIDESystem=Northwind_Data
+WebIDEEnabled=true
